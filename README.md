@@ -57,4 +57,44 @@ The requierments are:
 5-The backend generate url to download the file when the .jar prints 100, and angular generate a link to download the file, and angular show the link when the api returns 100
 	
     see backend.js and app/uploadder/simple-demo.ts
+    
+------------------
+# Learned lessons 
+
+#### JS calls Java async Process
+
+https://drive.google.com/open?id=0B569OJeOrFAySmZBc2xSNFAtVVk
+
+####JS basics (Dictionaries )
+
+https://drive.google.com/open?id=0B569OJeOrFAyR09ncmQtTElndDQ
+
+####Calling a Observer with time interval
+
+https://drive.google.com/open?id=0B569OJeOrFAyaTFUYmVjR0NlMjQ
+
+####Angular2 a http service
+
+https://drive.google.com/open?id=0B569OJeOrFAySW93WldzNkhzUlU
+
+####A simple API using Node and Express 4
+
+https://drive.google.com/open?id=0B569OJeOrFAySFpxZEJUVUY1X3M
+
+####ExpressJS download
+
+https://drive.google.com/open?id=0B569OJeOrFAyY1V1elNqcURhcE0
+
+# Encounter errrors 
+
+(No provider for Http, ConnectionBackend)
+https://drive.google.com/open?id=0B569OJeOrFAydElHX08xa1Y4STg
+
+# Tools 
+
+Random user api generator: 
+
+https://randomuser.me/
+
+
 
